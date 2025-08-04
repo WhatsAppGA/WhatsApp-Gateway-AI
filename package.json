@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "@whiskeysockets/baileys": "6.7.18",
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "https-proxy-agent": "^7.0.4",
+    "jimp": "^0.16.13",
+    "link-preview-js": "^3.0.14",
+    "lodash": "^4.17.21",
+    "mime-types": "^2.1.35",
+    "mysql2": "^3.9.2",
+    "node-cache": "^5.1.2",
+    "pino-pretty": "^10.2.0",
+    "qrcode": "^1.5.3",
+    "readline": "^1.3.0",
+    "sharp": "^0.32.2",
+    "socket.io": "^4.7.2",
+    "ulid": "^2.3.0",
+    "wa-sticker-formatter": "^4.4.4"
+  },
+  "name": "wamd",
+  "version": "7.5",
+  "description": "Whatsapp remote API multi device, multi instance. Based on baileys. Wanna more support contact me https://m-pedia.co.id ||  https://wa.me/6282298859671",
+  "main": "server.js",
+  "author": "M-Pedia.co.id <ilmansunannudin2@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "win-dev": "set NODE_ENV=development&&nodemon src/index",
+    "dev": "NODE_ENV=development node src/index",
+    "start": "NODE_ENV=production node src/index"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "credentials/*"
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+<p> Error or no preview for this type message </p>
