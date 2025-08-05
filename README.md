@@ -17,7 +17,7 @@ You can send mass messages for your marketing campaign activities, promotions or
 Setup automatic message replies with more natural (alami) and selected keywords for operational optimization of use;
 Manage sent message history with automatic and scheduled deletions.
 
-# 4. Integration
+# 3. Integration
 
 - You can easily integrate your WhatsApp Account with various (AI) artificial intelligence services, namely ChatGPT, DALL-E, Gemini, and Cloude with - - API authentication codes only.
 - You can easily activate AI for Single or Multiple use on your WhatsApp Account.
@@ -27,13 +27,13 @@ Manage sent message history with automatic and scheduled deletions.
 - Setup your WhatsApp and AI accounts more naturally (natural) with the status "Typing...".
 - You can easily integrate and communicate your services with the Webhook mechanism of WhatsApp Gateway | Multi Device.
 
-# 5. Application Settings
+# 4. Application Settings
 
 - Nowadays you can easily and quickly carry out the process of setting up the WhatsApp Gateway | Multi Device with the settings panel.
 - You can easily set up applications based on server ecosystem, smtp, etc.
 - Multi language support (english, Indonesian, Indian, Spanish and Arabic) for easy use.
 
-# 6. Developer Options
+# 5. Developer Options
 
 - Currently WhatsApp Gateway | Multi Device has provided various API services for your easy development consisting of:
         1). Send Message API
@@ -56,7 +56,7 @@ Manage sent message history with automatic and scheduled deletions.
 
 - Ease of setup and availability of the (API Key) API Key for authentication and authorization of your development process.
 
-# 7. Security
+# 6. Security
 
 - Currently there is a 2 factor authentication (2FA) service available to maintain the security and comfort of application access;
 A password reset service is available if you forget your account login information.
