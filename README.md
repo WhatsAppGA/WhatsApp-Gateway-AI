@@ -1,6 +1,8 @@
 # AI Integrated WhatsApp Gateway | Multi device | Whatsapp API Gateway Source Code Without Subscription!
 
 ![Example dashboard](https://m-pedia.my.id/images/botchatwa.gif)
+
+![Example dashboard](https://m-pedia.my.id/images/dashboard-feature.png)
 </br></br>
 
 # 1. WhatsApp Account Connectivity
